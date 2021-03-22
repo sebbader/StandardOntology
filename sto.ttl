@@ -8635,6 +8635,7 @@ sto:IEC_TS_62832 rdf:type owl:NamedIndividual ,
                  sto:hasOfficialResource <https://webstore.iec.ch/publication/33023> .
 
 
+
 ###  https://w3id.org/i40/sto#IEEE
 sto:IEEE rdf:type owl:NamedIndividual ,
                   foaf:Organization ,
